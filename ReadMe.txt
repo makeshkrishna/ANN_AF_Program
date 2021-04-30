@@ -1,9 +1,10 @@
+* Please refer .ipynb for reports.
 
-* Please change the dataset path accordingly
+* Please change the dataset path accordingly.
 
-* Packages needed are mentioned in the PDF, can be installed using the pip command
+* Packages needed are mentioned in the PDF, can be installed using the pip command.
 
-* For more infomation please refer the PDF attached
+* For more infomation please refer the PDF attached.
 
 
 
